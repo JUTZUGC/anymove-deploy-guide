@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "anymove-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
